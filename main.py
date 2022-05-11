@@ -1,2 +1,2 @@
 class HerokuApp:
-    app_url = ""  # Fill your heroku app url here
+    app_url = "https://daftcode-part1.herokuapp.com/"  # Fill your heroku app url here

@@ -8,3 +8,4 @@ python task_4_test_2.py
 python task_5_test_1.py
 python task_5_test_2.py
 python task_5_test_3.py
+trap 'sleep infinity' EXIT
