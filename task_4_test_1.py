@@ -23,7 +23,7 @@ class HerokuSetupTest(unittest.TestCase):
         self.assertEqual(
             response_json,
             {
-                "name": "Dzień Balearów",
+                "event": "Dzień Balearów",
                 "date": "2022-03-01",
             },
         )
